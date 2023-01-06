@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Análisis Matemático/Función inyectiva/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Análisis Matemático/Función inyectiva/"}
 ---
 
 Una función $f:X\to Y$ es inyectiva, uno a uno, si a elementos del conjunto $X$ ([[Análisis Matemático/Dominio\|Dominio]]) le correspoden elementos distintos del conjunto $Y$ ([[Análisis Matemático/Codominio\|Codominio]]) de $f$, es decir, cada elemento del conjunto $Y$ tiene a lo sumo una preimagen en $X$, o lo que es lo mismo, en el conjunto $X$ no puede haber dos o más elementos que tengan la misma [[Análisis Matemático/Imagen\|Imagen]]
