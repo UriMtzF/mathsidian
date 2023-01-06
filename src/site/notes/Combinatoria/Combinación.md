@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Combinatoria/Combinación/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Combinatoria/Combinación/"}
 ---
 
 Los coeficientes binomiales, números combinatorios o combinaciones son números estudiados en combinatoria que corresponden al número de formas en que se puede extraer subconjuntos a partir de un conjunto dado.
