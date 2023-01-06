@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Análisis Matemático/Dominio/"}
+{"dg-publish":true,"permalink":"/Análisis Matemático/Dominio/","dgPassFrontmatter":true}
 ---
 
 El dominio, conjunto de definición o conjunto de partida de una [[Definiciones/Función\|Función]] $f:X\rightarrow Y$ es el conjunto de existencia de ella misma, es decir, los valores para los cuáles la función está definida. Es el conjunto de todos los valores que puede transformar, se denota $\text{Dom}_{f}$, $\text{Dom}(f)$ o $D_{f}$. 
