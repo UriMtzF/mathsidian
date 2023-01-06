@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Análisis Matemático/Imagen/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Análisis Matemático/Imagen/"}
 ---
 
 La imagen, campo de valores o rango de una [[Definiciones/Función\|Función]] $f:X \to Y$, también llamada la imagen de $X$ bajo $f$, es el [[Lógica Matemática/Conjunto\|Conjunto]] contenido en $Y$ formado por todos los valores que puede llegar a tomar la función.
