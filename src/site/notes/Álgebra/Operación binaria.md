@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Álgebra/Operación binaria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Álgebra/Operación binaria/"}
 ---
 
 La operación binaria o ley de composición[^1] es aquella operación matemática que necesita de un operador y dos operandos para que se calcule un valor.
