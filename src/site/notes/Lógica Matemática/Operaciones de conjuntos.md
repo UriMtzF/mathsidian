@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lógica Matemática/Operaciones de conjuntos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Lógica Matemática/Operaciones de conjuntos/"}
 ---
 
 Los [[Lógica Matemática/Conjunto\|conjuntos]] se pueden operar entre sí. 
