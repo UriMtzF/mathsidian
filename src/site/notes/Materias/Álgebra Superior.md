@@ -46,6 +46,9 @@
 5. [[Análisis Matemático/Función polinómica#^e84a9c\|Naturaleza de las raíces]]
 6. Raíces racionales
 7. Raíces irracionales
+>[!warning] Ambiguedad
+>El término *raíces racionales* y *raíces irracionales* se pueden referir a [[Aritmética/Radicación#^5047a5\|el conjunto de número al que pertenece el resultado]].
+>Por otro lado el término *raíces racionales* puede referirse al [[Álgebra/Teorema de la raíz racional\|Teorema de la raíz racional]]
 ## Fracciones parciales
 1. Fracciones algebráicas
 2. Fracciones algebráicas propias e impropias
