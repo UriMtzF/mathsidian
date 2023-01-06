@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aritmética/Potenciación/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Aritmética/Potenciación/"}
 ---
 
 La potenciación es una operación matemática entre dos términos denominados: base $a$ y exponente $n$. Se escribe $a^{n}$ y se lee normalmente como *a elevado a la n*.
