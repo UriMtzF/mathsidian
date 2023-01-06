@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Definiciones/División entre cero/"}
+{"dg-publish":true,"permalink":"/Definiciones/División entre cero/","dgPassFrontmatter":true}
 ---
 
 La división entre cero es una división en la que el divisor es igual a cero y que no tiene un resultado bien definido.
