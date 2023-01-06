@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Análisis Matemático/Codominio/"}
+{"dg-publish":true,"permalink":"/Análisis Matemático/Codominio/","dgPassFrontmatter":true}
 ---
 
 El codominio, contradominio, recorrido, conjunto final o conjunto de llegada de una [[Definiciones/Función\|Función]] $f:X\rightarrow Y$ es un conjunto $Y$ al que pertenecen todos los valores de salida de la función.
