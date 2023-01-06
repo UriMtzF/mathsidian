@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Análisis Matemático/Progresión/"}
+{"dg-publish":true,"permalink":"/Análisis Matemático/Progresión/","dgPassFrontmatter":true}
 ---
 
 Una progresión es una sucesión de números entre los cuales hay una ley de formación constante, se distinguen dos tipos.
