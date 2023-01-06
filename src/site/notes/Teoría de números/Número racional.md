@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Teoría de números/Número racional/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Teoría de números/Número racional/"}
 ---
 
 Los números racionales son todos aquellos que pueden representarse como el cociente de un [[Teoría de números/Número entero\|entero]] y un [[Teoría de números/Número natural\|natural]], es decir una fracción común del tipo $\frac{a}{b}$, donde $a,b\in \mathbb{Z}$ y $n\neq 0$.
