@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Teoría de números/Número complejo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Teoría de números/Número complejo/"}
 ---
 
 Los números complejos, denotados con $\mathbb{C}$, son una extensión de los [[Teoría de números/Número real\|números reales]]. Entre ambos conjuntos se cumple que $\mathbb{R}\subset\mathbb{C}$, es decir, $\mathbb{R}$ está contenido estrictamente en $\mathbb{C}$. Los números complejos se caracterizan por ser el conjunto que posee todas las raíces de los polinomios. Se representan por medio de la unión de un número real con un [[Teoría de números/Número imaginario\|Número imaginario]].
