@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lógica Matemática/Inducción matemática/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Lógica Matemática/Inducción matemática/"}
 ---
 
 La inducción es un razonamiento que permite demostrar proposiciones que dependen de una variable $n$ que toma una infinidad de [[Teoría de números/Número entero\|valores enteros]]. En términos simples la inducción matemática consiste en el siguiente razonamiento.
