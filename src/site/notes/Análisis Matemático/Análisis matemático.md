@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Análisis Matemático/Análisis matemático/"}
+{"dg-publish":true,"permalink":"/Análisis Matemático/Análisis matemático/","dgPassFrontmatter":true}
 ---
 
 El análisis matemático es una rama de la matemática que estudia los conjuntos numéricos tanto del punto de vista algebráico como del punto de vista algebráico como topológico, así como las funciones entre esos conjuntos y construcciones derivadas.
