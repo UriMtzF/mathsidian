@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lógica Matemática/Conjunto/"}
+{"dg-publish":true,"permalink":"/Lógica Matemática/Conjunto/","dgPassFrontmatter":true}
 ---
 
 Un conjunto es cualquier colección de elementos considerada en si misma como un objeto.
