@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Álgebra/Álgebra/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Álgebra/Álgebra/"}
 ---
 
 El álgebra es la rama de la matemática que estudia la combinación de elementos de estructuras abstractas acorde a ciertas reglas. Originalmente estos elementos podían ser interpretados como números o cantidades, por lo que el álgebra fue una generalización y extensión de la aritmética. 
