@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Combinatoria/Principio de la suma/"}
+{"dg-publish":true,"permalink":"/Combinatoria/Principio de la suma/","dgPassFrontmatter":true}
 ---
 
 El principio de la suma o regla de la suma en su versión informal establece: 
