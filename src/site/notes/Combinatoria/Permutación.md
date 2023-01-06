@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Combinatoria/Permutación/"}
+{"dg-publish":true,"permalink":"/Combinatoria/Permutación/","dgPassFrontmatter":true}
 ---
 
 Una permutación es una disposición de sus miembros en una secuencia u orden lineal, o si el conjunto ya está ordenado, una variación del orden de este. Se puede representar con $nPr$, $P(n,r)$ o $Pr^{n}$
