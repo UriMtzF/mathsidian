@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Álgebra/Estructura algebráica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Álgebra/Estructura algebráica/"}
 ---
 
 Una estructura algebráica, también conocida como sistema algebráico, es una n-tupla $(a_{1},a_{2},...,a_{n})$, donde $a_{1}$ es un [[Lógica Matemática/Conjunto\|Conjunto]] dado no vacío, y $(a_{2},...,a_{n})$ un conjunto de operaciones aplicables a dicho conjunto.
