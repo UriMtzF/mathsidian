@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Teoría de números/Número entero/"}
+{"dg-publish":true,"permalink":"/Teoría de números/Número entero/","dgPassFrontmatter":true}
 ---
 
 Los números enteros son el conjunto de números que contienen a los [[Teoría de números/Número natural\|números naturales]], sus opuestos y al cero[^1]. El conjunto de todos estos números se suele denotar con una $\mathbb{Z}$.
