@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Álgebra/Sistema de ecuaciones lineales/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Álgebra/Sistema de ecuaciones lineales/"}
 ---
 
 Un sistema algebraico de ecuaciones lineales, también conocido como sistema lineal de ecuaciones, ecuaciones simultáneas o simplemente sistema lineal, es un un conjunto de ecuaciones con más de una incógnita que conforman un problema matemático que consiste en encontrar los valores de las incógnitas que satisfacen dichas operaciones, en donde cada ecuación es de primer grado.
