@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Análisis Matemático/Función sobreyectiva/"}
+{"dg-publish":true,"permalink":"/Análisis Matemático/Función sobreyectiva/","dgPassFrontmatter":true}
 ---
 
 Una función $f:X\to Y$ es sobreyectiva, epiyectiva, suprayectiva, suryectiva, exhaustiva, onto o subyectiva si está aplicada sobre todo el codominio, es decir, cuando cada elemento de $Y$ es la [[Análisis Matemático/Imagen\|Imagen]] de como mínimo un elemento de $X$
