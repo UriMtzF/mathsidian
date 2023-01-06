@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Materias/Álgebra Superior/"}
+{"dg-publish":true,"permalink":"/Materias/Álgebra Superior/","dgPassFrontmatter":true}
 ---
 
 ## Teoría de conjuntos, relaciones y funciones
