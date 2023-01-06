@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Análisis Matemático/Función polinómica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Análisis Matemático/Función polinómica/"}
 ---
 
 Una [[Definiciones/Función\|Función]] polinómica, es una relación entre un valor de entrada y un valor de salida calculado a partir de un polinomio.
