@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Combinatoria/Combinatoria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Combinatoria/Combinatoria/"}
 ---
 
 La combinatoria es una rama de las matemáticas discretas que estudia la enumeración, construcción y existencia de propiedades de configuraciones que satisfacen ciertas condiciones establecidas. Además estudia las ordenaciones o agrupaciones de un determinado número de elementos.
