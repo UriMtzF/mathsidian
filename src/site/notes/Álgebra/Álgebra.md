@@ -11,6 +11,7 @@ A día de hoy existen más ramas del álgebra cómo:
 - [[Álgebra/Sistema de ecuaciones lineales\|Sistema de ecuaciones lineales]]
 - [[Álgebra/Teorema fundamental del álgebra\|Teorema fundamental del álgebra]]
 - [[Álgebra/Regla de Ruffini\|Regla de Ruffini]]
+- [[Álgebra/Teorema de la raíz racional\|Teorema de la raíz racional]]
 ## Álgebra abstracta o superior
 Es la parte del álgebra que estudia las estructuras algebráicas.
 - [[Álgebra/Operación binaria\|Operación binaria]]
