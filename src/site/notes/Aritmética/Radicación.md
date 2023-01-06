@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aritmética/Radicación/"}
+{"dg-publish":true,"permalink":"/Aritmética/Radicación/","dgPassFrontmatter":true}
 ---
 
 La radicación es el proceso de hallar raíces de orden $n$ de un número $a$. De modo que se verifica que $\sqrt[n]{a}=x$, donde $n$ es llamado índice u orden, $a$ es llamado radicando y $x$ es una raíz enésima.
