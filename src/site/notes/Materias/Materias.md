@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Materias/Materias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Materias/Materias/"}
 ---
 
 ## Primer Semestre
