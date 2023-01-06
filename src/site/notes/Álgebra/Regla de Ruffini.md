@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Álgebra/Regla de Ruffini/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Álgebra/Regla de Ruffini/"}
 ---
 
 La regla de Ruffini o división sintética facilita el cálculo rápido de la división de cualquier polinomio entre un binomio de la forma $(x-r)$. También permite localizar las raíces de un polinomio y factorizarlo en binomios de la forma $(x-r)$ siendo $r$ un [[Teoría de números/Número entero\|Número entero]]
