@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Teoría de números/Número imaginario/"}
+{"dg-publish":true,"permalink":"/Teoría de números/Número imaginario/","dgPassFrontmatter":true}
 ---
 
 Un número imaginario es un [[Teoría de números/Número complejo\|Número complejo]] cuya parte real es igual a cero. Los números imaginarios se pueden expresar cómo el producto de un [[Teoría de números/Número real\|Número real]] por la unidad imaginaria $i$, es decir: $$z=yi$$
