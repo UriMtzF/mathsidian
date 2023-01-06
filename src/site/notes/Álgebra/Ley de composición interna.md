@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Álgebra/Ley de composición interna/"}
+{"dg-publish":true,"permalink":"/Álgebra/Ley de composición interna/","dgPassFrontmatter":true}
 ---
 
 Dado un conjunto $A$ y una operación interna $\odot$, que se representa con el par $(A,\odot)$, se dice que $\odot$ es una ley de composición interna en $A$ cuando es una aplicación de la forma:
