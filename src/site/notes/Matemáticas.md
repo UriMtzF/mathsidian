@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"obsidianUIMode":"preview","permalink":"/Matemáticas/","tags":"gardenEntry","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Matemáticas/","tags":"gardenEntry"}
 ---
 
 La matemática, es una ciencia formal que a partir de axiomas y siguiendo el razonamiento lógico estudia las propiedades, estructuras y relaciones entre entidades como números, firguras geométricas, íconos, etc.
