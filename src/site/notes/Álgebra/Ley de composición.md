@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Álgebra/Ley de composición/"}
+{"dg-publish":true,"permalink":"/Álgebra/Ley de composición/","dgPassFrontmatter":true}
 ---
 
 La ley de composición es un tipo de [[Álgebra/Operación binaria\|Operación binaria]] que da lugar a distintas estructuras algebráicas.
