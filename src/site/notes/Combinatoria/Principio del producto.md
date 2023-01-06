@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Combinatoria/Principio del producto/"}
+{"dg-publish":true,"permalink":"/Combinatoria/Principio del producto/","dgPassFrontmatter":true}
 ---
 
 El principio del producto, regla del producto o principio de elección establece de manera informal:
