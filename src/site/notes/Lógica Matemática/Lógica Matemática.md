@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lógica Matemática/Lógica Matemática/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Lógica Matemática/Lógica Matemática/"}
 ---
 
 La lógica matemática, también llamada lógica simbólica, lógica teorética, lógica formal o logística, es el estudio formal y simbólico de la lógica y su aplicación a algunas áreas de la matemática y la ciencia.
