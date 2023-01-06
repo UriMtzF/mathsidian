@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Teoría de números/Teoría de números/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Teoría de números/Teoría de números/"}
 ---
 
 La teoría de números es la rama de la matemática pura que estudia las propiedades de los números.
