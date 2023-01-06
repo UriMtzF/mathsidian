@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Teoría de números/Número natural/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Teoría de números/Número natural/"}
 ---
 
 Un número natural es cualquiera de los números usados para contar [[Lógica Matemática/Conjunto\|conjuntos]]. Actualmente también puede aparecer como $\mathbb{N}=\{0,1,2,3...\}$. De dos números consecutivos, el que se encuentra a la derecha se llama siguiente o sucesivo, por lo que el conjunto de los números naturales es ordenado e infinito.
