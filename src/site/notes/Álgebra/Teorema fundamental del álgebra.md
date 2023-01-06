@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Álgebra/Teorema fundamental del álgebra/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Álgebra/Teorema fundamental del álgebra/"}
 ---
 
 El teorema fundamental del álgebra establece que:
