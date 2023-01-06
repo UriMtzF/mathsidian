@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lógica Matemática/Producto Cartesiano/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Lógica Matemática/Producto Cartesiano/"}
 ---
 
 El producto cartesiano de dos [[Lógica Matemática/Conjunto\|conjuntos]] es una [[Lógica Matemática/Operaciones de conjuntos\|operación]] que resulta en otro conjunto, cuyos elementos son todos los pares ordenados que pueden formarse de forma que el primer elemento del par ordenado pertenezca al primer conjunto y el segundo elemento pertenezca al segundo conjunto. 
