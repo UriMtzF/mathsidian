@@ -7,10 +7,11 @@ Los coeficientes binomiales, números combinatorios o combinaciones son números
 Se suele denotar por $nCr$, $C(n,r)$, $Cr^{n}$, $C_{n}^{r}$ o $\binom{n}{r}$
 
 ## Combinaciones sin repetición
-Las combinaciones de $n$ elementos tomados $r$ posibles muestras sin orden de $r$ elementos distintos que se puedan extraer de un conjunto de $n$ elementos ($r\leq n$) $$nCr=\frac{n!}{r!\cdot (n-r)!}$$
+Las combinaciones de $n$ elementos tomados $r$ posibles muestras sin orden de $r$ elementos distintos que se puedan extraer de un conjunto de $n$ elementos ($r\leq n$)
+$$nCr=\frac{n!}{r!\cdot (n-r)!}$$
 >[!example]- Ejemplo
 >En una reunión de 8 personas debe nombrarse una comisión formada por dos de ellas. ¿Cuántas comisiones distintas podrían nombrarse?
->$$8C2=\frac{8!}{2!\cdot 6!}=28$$
+> $$8C2=\frac{8!}{2!\cdot 6!}=28$$
 ## Combinaciones con repetición
 Las combinaciones con repetición de $n$ elementos tomados $r$ posibles muestras no ordenadas de $r$ elementos no necesariamente distintos que se pueden extraer de un conjunto de $n$ elementos.
 $$CR_n^r=nCRr=\binom{n+r-1}{r}$$
