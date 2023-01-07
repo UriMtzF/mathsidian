@@ -10,7 +10,8 @@ Se pueden representar estos números con distintas notaciones y de igual forma s
 
 ^108452
 
-Esta es la forma más común de representar a los números complejos, un número comúnmente denominado $z$, está conformado por la suma de un número real y un imaginario, es decir: $$z=a+bi$$
+Esta es la forma más común de representar a los números complejos, un número comúnmente denominado $z$, está conformado por la suma de un número real y un imaginario, es decir:
+$$z=a+bi$$
 Es posible encontrar números complejos sólo con parte imaginaria o real, de igual forma, se pueden tratar los números complejos en forma cartesiana cómo binomios, por lo que gran parte de las propiedades algebraicas aplican.
 ### Operaciones
 Los números complejos sólo en esta forma se pueden sumar, restar y conjugar, también se pueden multiplicar y dividir. 
@@ -19,18 +20,22 @@ Para efectuar una adición de números complejos, se suman las partes reales y l
 #### Resta
 Para el caso de la resta se realiza el mismo procedimiento que en la suma, teniendo cuidado de respetar las *leyes de los signos*.
 #### Producto
-Tratando el número como un binomio se puede efectuar producto de binomios simplificando los exponentes respetando las [[Teoría de números/Número imaginario#^b1f24c\|reglas de potencias de números imaginarios]], de igual forma se puede seguir la siguiente regla: $$(a+bi)\cdot (c+di)=(ac-bd)+(ad+bc)i$$
+Tratando el número como un binomio se puede efectuar producto de binomios simplificando los exponentes respetando las [[Teoría de números/Número imaginario#^b1f24c\|reglas de potencias de números imaginarios]], de igual forma se puede seguir la siguiente regla: 
+$$(a+bi)\cdot (c+di)=(ac-bd)+(ad+bc)i$$
 #### División
-Tratando al número como un binomio se puede efectuar la división, sin embargo es más sencillo seguir la fórmula: $$\frac{a+bi}{c+di}=\frac{(ac+bd)+(bc-ad)i}{c^2+d^2}$$
+Tratando al número como un binomio se puede efectuar la división, sin embargo es más sencillo seguir la fórmula: 
+$$\frac{a+bi}{c+di}=\frac{(ac+bd)+(bc-ad)i}{c^2+d^2}$$
 #### Conjugado
 Dado el número $z=a+bi$, el conjugado de $z$ denominado por $\overline{z}$ es otro número complejo definido por $\overline{z}=a-bi$
 #### Módulo
-En algunas representaciones gráficas es útil conocer el módulo o magnitud del número en cuestión, este se obtiene con: $$|z|=\sqrt{a^{2}+b^{2}}$$
+En algunas representaciones gráficas es útil conocer el módulo o magnitud del número en cuestión, este se obtiene con: 
+$$|z|=\sqrt{a^{2}+b^{2}}$$
 ## Forma polar
 
 ^c38c0d
 
-La forma polar de un número complejo consta de dos componente llamados módulo y argumento: $$z=r\cos\theta+r\sin\theta=r\operatorname{cis}\theta$$
+La forma polar de un número complejo consta de dos componente llamados módulo y argumento: 
+$$z=r\cos\theta+r\sin\theta=r\operatorname{cis}\theta$$
 Es común usar la notación $\operatorname{cis}$ para acortar la suma de funciones trigonométricas.
 >[!tip] Unidades del ángulo
 >El ángulo puede estar escrito en grados sexagesimales o en radianes, por lo que se debe ser claro en las unidades que se estén usando
@@ -54,14 +59,16 @@ Dónde $k$ es un valor progresivo que comienza en cero y se detiene hasta que $k
 Los números complejos no se pueden operar si se encuentran en otras formas o bien, puede ser conveniente operarlos en alguna otra forma. Los números polares se pueden convertir a forma cartesiana y viceversa.
 #### Conversión de cartesiana a polar
 Si se tiene un número de la forma $z=a+bi$ y se desea convertir a su forma polar, se debe obtener el módulo del número usando la fórmula anteriormente descrita.
-Para obtener el argumento (el ángulo) se usa la tangente: $$\tan \theta=\frac{b}{a}$$
+Para obtener el argumento (el ángulo) se usa la tangente: 
+$$\tan \theta=\frac{b}{a}$$
 #### Conversión de polar a cartesiana
 Dadas las funciones trigonométricas seno y coseno, se pueden determinar los valores de $a$ y $b$, así mismo la conversión es dependiente al cuadrante.
 ## Forma exponencial o de Euler
 
 ^fe6930
 
-La forma exponencial describe una "equivalencia" a la forma polar con la particularidad que sólo usa ángulos en radianes, Euler estableció que; $e^{i\theta}=\cos\theta+\sin\theta i$, por consiguiente: $$z=re^{i\theta}$$
+La forma exponencial describe una "equivalencia" a la forma polar con la particularidad que sólo usa ángulos en radianes, Euler estableció que; $e^{i\theta}=\cos\theta+\sin\theta i$, por consiguiente: 
+$$z=re^{i\theta}$$
 ### Operaciones en la forma exponencial
 Dados los números $z_{1}=e^{i\theta_{1}}$ y $z_{2}=e^{i\theta_{2}}$
 #### Multiplicación
