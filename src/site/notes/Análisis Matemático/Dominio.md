@@ -3,7 +3,8 @@
 ---
 
 El dominio, conjunto de definición o conjunto de partida de una [[Definiciones/Función\|Función]] $f:X\rightarrow Y$ es el conjunto de existencia de ella misma, es decir, los valores para los cuáles la función está definida. Es el conjunto de todos los valores que puede transformar, se denota $\text{Dom}_{f}$, $\text{Dom}(f)$ o $D_{f}$. 
-De manera formal: $$D_{f}=\{x\in X:\exists y\in Y:f(x)=y\}$$
+De manera formal: 
+$$D_{f}=\{x\in X:\exists y\in Y:f(x)=y\}$$
 ## Propiedades
 Dadas dos funciones reales:
 $$\begin{array}{lr}f:X_{1}\rightarrow \mathbb{R}\\g:X_{2}\rightarrow \mathbb{R}\end{array}$$
