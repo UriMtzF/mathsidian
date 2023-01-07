@@ -24,7 +24,8 @@ Los polinomios que cuyo grado es par son tratadas de forma especial ya que estos
 #### Raíces de funciones cuadráticas
 Dada la sencillez de las funciones cuadráticas, existen ciertas reglas que pueden ayudar a determinar la *naturaleza* de las raíces a partir del discriminante del polinomio.
 
-Dado un polinomio cuadrático de la forma $p(x)=ax^{2}+bx+c$, el discriminante, representado por la letra delta $\Delta$, en las ecuaciones cuadráticas se puede obtener con la siguiente fórmula: $$\Delta=b^{2}-4ac$$
+Dado un polinomio cuadrático de la forma $p(x)=ax^{2}+bx+c$, el discriminante, representado por la letra delta $\Delta$, en las ecuaciones cuadráticas se puede obtener con la siguiente fórmula: 
+$$\Delta=b^{2}-4ac$$
 - Si $\Delta>0$, entonces $p(x)$ tiene dos raíces reales distintas.
 - Si $\Delta = 0$, entonces $p(x)$ tiene dos raíces coincidentes reales.
 - Si $\Delta<0$, entonces $p(x)$ no tiene raíces reales.
