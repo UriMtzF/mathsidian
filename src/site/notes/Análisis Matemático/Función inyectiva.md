@@ -11,5 +11,6 @@ Una función $f:X\to Y$ es inyectiva, uno a uno, si a elementos del conjunto $X$
 Para probar que una función no es inyectiva, basta con hallar dos valores distintos del dominio, cuyas imágenes del codominio son iguales.
 
 ## Cardinalidad e inyectividad
-Dados dos conjuntos $A$ y $B$, entre los cuales existe una función inyectiva $f:A\to B$, tienen cardinales que cumplen: $$\text{card}(A)\leq \text{card}(B)$$
+Dados dos conjuntos $A$ y $B$, entre los cuales existe una función inyectiva $f:A\to B$, tienen cardinales que cumplen: 
+$$\text{card}(A)\leq \text{card}(B)$$
 Si además existe otra función inyectiva $g:B\to A$, entonces puede decirse que existe una aplicación [[Análisis Matemático/Función biyectiva\|biyectiva]] entre $A$ y $B$.
