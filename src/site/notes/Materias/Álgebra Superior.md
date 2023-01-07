@@ -25,7 +25,7 @@
 4. [[Álgebra/Teorema del binomio\|Teorema del binomio]]
 	1. Propiedades de los [[Aritmética/Potenciación\|exponentes]] y [[Aritmética/Radicación#^dc1acb\|radicales]]
 	2. [[Análisis Matemático/Serie\|Sumas]]
-	3. [[Álgebra/Teorema del binomio#^25185e\|Término general]] y [[Álgebra/Teorema del binomio#^371339\|desarrollo del binomio]]
+	3. [[Álgebra/Teorema del binomio#^25185e\|Término general]] y [[Álgebra/Teorema del binomio#^c0eb03\|desarrollo del binomio]]
 5. [[Lógica Matemática/Inducción matemática\|Inducción matemática]]
 6. [[Análisis Matemático/Progresión\|Progresiones]]
 	1. [[Álgebra/Sistema de ecuaciones lineales\|Solución de sistemas de ecuaciones lineales de 2x2 y 3x3]]
