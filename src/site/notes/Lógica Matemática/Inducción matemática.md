@@ -18,7 +18,9 @@ Dado un número entero $a$ que tiene la propiedad $P$, y el hecho de que si hast
 >
 >*Para* $n=1$ (Paso 1)
 >$$\begin{array}{rl}2(1)-1&=1^{2}\\1&=1\end{array}$$
->*Para* $n=h$ (Paso 2) $$\sum\limits_{k=1}^{h}(2k-1)=k^2$$
->*Se agrega el siguiente número* $h+1$ $$\begin{array}{rl}\sum\limits_{k=1}^{h+1}(2k-1)&=k^{2}+(1k-1)^{2}\\&=k^2+2k+2-1\\&=k^2+2k+1\\&=(k+1)^2\end{array}$$
+>*Para* $n=h$ (Paso 2) 
+>$$\sum\limits_{k=1}^{h}(2k-1)=k^2$$
+>*Se agrega el siguiente número* $h+1$ 
+>$$\begin{array}{rl}\sum\limits_{k=1}^{h+1}(2k-1)&=k^{2}+(1k-1)^{2}\\&=k^2+2k+2-1\\&=k^2+2k+1\\&=(k+1)^2\end{array}$$
 >Por lo tanto se puede decir que la proposición anterior es verdadera
 
