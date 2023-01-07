@@ -12,7 +12,8 @@ Dado un número entero $a$ que tiene la propiedad $P$, y el hecho de que si hast
 3. Utilizando la proposición anterior probar que también es válida para el siguiente número $k+1$
 >[!example]- Ejemplo
 >$$P(n)=1+3+5+7+\cdots+(2n-1)=\sum\limits_{k=1}^{n}(2n-1)=n^2$$
->Se busca demostrar que $$\sum\limits_{k=1}^{n}(2n-1)=(h+1)^{2}$$
+>Se busca demostrar que 
+>$$\sum\limits_{k=1}^{n}(2n-1)=(h+1)^{2}$$
 > >[!warning] *Demostrar*
 >Se usa la palabra demostrar como tal en el párrafo anterior debido a que es más fácil el uso de tal palabra, sin embargo el procedimiento a continuación busca demostrar el primer sumatorio mostrado empero se llegará al resultado del sumatorio anterior para verificar que es verdadero.
 >
