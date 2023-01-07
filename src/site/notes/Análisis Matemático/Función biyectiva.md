@@ -7,4 +7,5 @@ Una función es biyectiva si al mismo tiempo es [[Análisis Matemático/Función
 Dados dos conjuntos finitos $X$ y $Y$, entonces existirá una biyección entre ambos si y solo si $X$ y $Y$ tienen el mismo número de elementos.
 
 ## Cardinalidad y biyectividad
-Dados dos conjuntos $A$ y $B$, entre los cuales existe una función biyectiva $f:A\to B$, tienen cardinales que cumplen:$$\text{card}(A)=\text{card}(Bconjunto de llegada)$$
+Dados dos conjuntos $A$ y $B$, entre los cuales existe una función biyectiva $f:A\to B$, tienen cardinales que cumplen:
+$$\text{card}(A)=\text{card}(Bconjunto de llegada)$$
