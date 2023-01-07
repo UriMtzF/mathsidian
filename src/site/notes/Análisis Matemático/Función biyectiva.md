@@ -8,4 +8,4 @@ Dados dos conjuntos finitos $X$ y $Y$, entonces existirá una biyección entre a
 
 ## Cardinalidad y biyectividad
 Dados dos conjuntos $A$ y $B$, entre los cuales existe una función biyectiva $f:A\to B$, tienen cardinales que cumplen:
-$$\text{card}(A)=\text{card}(Bconjunto de llegada)$$
+$$\text{card}(A)=\text{card}(B)$$
