@@ -13,4 +13,5 @@ Mientras que el producto cartesiano de $B\times A$ es:
 $${\begin{array}{r|cc}4&(a,4)&(b,4)\\3&(a,3)&(b,3)\\2&(a,2)&(b,2)\\1&(a,1)&(b,1)\\\hline B\times A&a&b\\\end{array}}$$
 Que se representa:
 $$B\times A=\{(a,1),(a,2),(a,3),(a,4),(b,1),(b,2),(b,3),(b,4)\}$$
-Dada la definición de pares ordenados $$(1,a)\neq(a,1)$$
+Dada la definición de pares ordenados 
+$$(1,a)\neq(a,1)$$
