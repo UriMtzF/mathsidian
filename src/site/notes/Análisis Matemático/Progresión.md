@@ -13,7 +13,8 @@ Una progresión es una sucesión de números entre los cuales hay una ley de for
 
 Una progresión aritmética es una sucesión de números tales que la diferencia de cualquier par de término sucesivos de la secuencia es constante, dicha cantidad es llamada diferencia de la progresión, diferencia o distancia.
 
-La diferencia puede definirse por la fórmula $$a_{n+1}-a_{n}=d$$
+La diferencia puede definirse por la fórmula 
+$$a_{n+1}-a_{n}=d$$
 Al conocer el primer término $a_{1}$ y la diferencia $d$, se puede obtener cualquier enésimo término $a_{n}$ por medio de la fórmula: 
 $$a_{n}=a_{1}+(n-1)d$$
 Si se conocen dos términos cualesquiera $a_{m}$ y $a_n$ tal que $m<n$ se puede obtener
