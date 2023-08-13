@@ -10,8 +10,8 @@ $$z=yi$$
 >Sin importar la definición que se tome en palabras *informales*, la unidad imaginaria es la base de otro conjunto de números llamados números imaginarios.
 
 ## Potencia de la unidad imaginaria
+{ #b1f24c}
 
-^b1f24c
 
 Al tratarse, por ejemplo, un número complejo como binomio, al multiplicarse pueden aparecer potencias, siguiendo la siguiente tabla, se pueden simplificar tales potencias.
 | Potencia | Resultado             |
