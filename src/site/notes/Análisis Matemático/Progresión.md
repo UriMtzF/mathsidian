@@ -8,8 +8,8 @@ Una progresión es una sucesión de números entre los cuales hay una ley de for
 >Una respuesta más extensa puede encontrarse en [Math Stack Exchange](https://math.stackexchange.com/questions/3530240/sequence-vs-progression) en inglés.
 
 ## Progresión aritmética
+{ #2b7cc6}
 
-^2b7cc6
 
 Una progresión aritmética es una sucesión de números tales que la diferencia de cualquier par de término sucesivos de la secuencia es constante, dicha cantidad es llamada diferencia de la progresión, diferencia o distancia.
 
@@ -23,8 +23,8 @@ $$a_{n}=a_{m}-(m-n)d$$
 La suma de los primero $n$ términos de una progresión aritmética se le conoce cómo serie aritmética dada por la fórmula:
 $$\sum _{i=1}^{n}a_{i}=\frac{n}{2}(a_{1}+a_{n})=\frac{n}{2}(2a_{1}+(n-1)d)$$
 ## Progresión geométrica
+{ #865900}
 
-^865900
 
 Una progresión geométrica es una sucesión de números tales que cada término se obtiene de multiplicar el anterior a este por una constanta denominada razón.
 
