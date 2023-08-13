@@ -50,7 +50,7 @@
 >El término *raíces racionales* y *raíces irracionales* se pueden referir a [[Aritmética/Radicación#^5047a5\|el conjunto de número al que pertenece el resultado]].
 >Por otro lado el término *raíces racionales* puede referirse al [[Álgebra/Teorema de la raíz racional\|Teorema de la raíz racional]]
 ## Fracciones parciales
-1. Fracciones algebráicas
-2. Fracciones algebráicas propias e impropias
-3. Teorema de descomposición de fracciones
+1. [[Álgebra/Fracción algebráica\|Fracciones algebráicas]]
+2. [[Álgebra/Fracción algebráica#^01a54c\|Fracciones algebráicas propias e impropias]]
+3. [[Álgebra/Descomposición en fracciones simples\|Teorema de descomposición de fracciones]]
 
