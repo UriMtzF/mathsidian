@@ -5,8 +5,8 @@
 La radicación es el proceso de hallar raíces de orden $n$ de un número $a$. De modo que se verifica que $\sqrt[n]{a}=x$, donde $n$ es llamado índice u orden, $a$ es llamado radicando y $x$ es una raíz enésima.
 
 ## Propiedades
+{ #dc1acb}
 
-^dc1acb
 
 Las [[Aritmética/Potenciación#^a1d68f\|propiedades de la potenciación]] también aplican a los radicandos, para que tales propiedades se cumplan se exige que el radicando sea positivo.
 - Raíz de un producto: 
@@ -18,8 +18,8 @@ $$\sqrt[m]{\sqrt[n]{a}}=\sqrt[n\cdot m]{a}$$
 - Potencia de una raíz: 
 $$(\sqrt[n]{a})^{m}=\sqrt[n]{a^{m}}=a^{\frac{m}{n}}$$
 ## Raíces racionales e irracionales
+{ #5047a5}
 
-^5047a5
 
 El resultado de una raíz puede ser clasificado según el conjunto al que pertenezca. Comúnmente se distinguen dos tipos de resultados:
 - Racionales, si el resultado puede representarse mediante una razón.
