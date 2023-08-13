@@ -25,8 +25,8 @@ $$\begin{array}{lr}A=\{a,e,i,o,u\} \\ B=\{2,4,6,8,10\} \end{array}$$
 Se especifica una propiedad que caracteriza a todos los elementos, p. ej. 
 $$\begin{array}{lr}A=\{\text{Todas las vocales}\}\\ B=\{x:x=2n|n\in \mathbb{N}\} \end{array}$$
 ## Conjunto universal
+{ #d89a8f}
 
-^d89a8f
 
 Sean $n$ cantidad de conjuntos con al menos uno no vacío, todos los elementos de estos conjuntos pertenecen a un conjunto fijo llamado conjunto universal.
 ## Subconjunto
@@ -40,8 +40,8 @@ $$m=2^n$$
 
 
 ## Propiedades de conjuntos
+{ #ce7e26}
 
-^ce7e26
 
 En la teoría de conjuntos axiomática estándar, por el axioma de extensionalidad, dos conjuntos son iguales si tienen los mismos elementos: por lo tanto solo puede haber un conjunto sin ningún elemento. Por consiguiente se habla de "*el conjunto vacío*" en lugar de "*un conjunto vacío*"
 ### Para todo conjunto $A$
@@ -61,8 +61,8 @@ $$2^{\emptyset}=\{\emptyset\}$$
 - Su número de elementos (cardinalidad) es cero
 $$n(\emptyset)=0$$
 ## Conjuntos disjuntos
+{ #383003}
 
-^383003
 
 Dos conjuntos $A$ y $B$ no vacíos son disjuntos o ajenos si no tienen elementos en común, de manera formal: 
 $$A\cap B=\emptyset$$
