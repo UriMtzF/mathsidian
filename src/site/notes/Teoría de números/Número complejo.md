@@ -7,8 +7,8 @@ Los números complejos, denotados con $\mathbb{C}$, son una extensión de los [[
 Se pueden representar estos números con distintas notaciones y de igual forma se pueden ejecutar operaciones con estos.
 
 ## Forma cartesiana
+{ #108452}
 
-^108452
 
 Esta es la forma más común de representar a los números complejos, un número comúnmente denominado $z$, está conformado por la suma de un número real y un imaginario, es decir:
 $$z=a+bi$$
@@ -31,8 +31,8 @@ Dado el número $z=a+bi$, el conjugado de $z$ denominado por $\overline{z}$ es o
 En algunas representaciones gráficas es útil conocer el módulo o magnitud del número en cuestión, este se obtiene con: 
 $$|z|=\sqrt{a^{2}+b^{2}}$$
 ## Forma polar
+{ #c38c0d}
 
-^c38c0d
 
 La forma polar de un número complejo consta de dos componente llamados módulo y argumento: 
 $$z=r\cos\theta+r\sin\theta=r\operatorname{cis}\theta$$
@@ -64,8 +64,8 @@ $$\tan \theta=\frac{b}{a}$$
 #### Conversión de polar a cartesiana
 Dadas las funciones trigonométricas seno y coseno, se pueden determinar los valores de $a$ y $b$, así mismo la conversión es dependiente al cuadrante.
 ## Forma exponencial o de Euler
+{ #fe6930}
 
-^fe6930
 
 La forma exponencial describe una "equivalencia" a la forma polar con la particularidad que sólo usa ángulos en radianes, Euler estableció que; $e^{i\theta}=\cos\theta+\sin\theta i$, por consiguiente: 
 $$z=re^{i\theta}$$
