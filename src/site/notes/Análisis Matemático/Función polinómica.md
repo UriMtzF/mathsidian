@@ -10,15 +10,17 @@ Las funciones se pueden nombrar en base al grado del polinomio que contienen, as
 | 0     | Función constante  | $y=a$                  | Rectas horizontales o paralelas a $x$ |
 | 1     | Función lineal     | $y=ax+b$               | Rectas oblicuas                       |
 | 2     | Función cuadrática | $y=ax^{2}+bx+c$        | Parábolas                             |
-| 3     | Función cúbica     | $y=ax^{3}+bx^{2}+cx+d$ | Curvas cúbicas                                      | ^cd88af
+| 3     | Función cúbica     | $y=ax^{3}+bx^{2}+cx+d$ | Curvas cúbicas                                      |
+{ #cd88af}
+
 
 ## Raíces de un polinomio
 Dado el [[Álgebra/Teorema fundamental del álgebra\|Teorema fundamental del álgebra]], se pueden obtener $n$ cantidad de raíces de todo polinomio según el grado $n$ de este.
 
 Existen diversos métodos para encontrar las raíces de un polinomio
 ### Raíces de funciones de grado par
+{ #e84a9c}
 
-^e84a9c
 
 Los polinomios que cuyo grado es par son tratadas de forma especial ya que estos polinomios pueden generar raíces de orden par, las cuáles si son negativas se resuelven por medio de [[Teoría de números/Número complejo\|números complejos]].
 #### Raíces de funciones cuadráticas
